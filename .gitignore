@@ -1,0 +1,10 @@
+### --- temporary files
+# vim swap files
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*.swk
+# common temp files
+*~
